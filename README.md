@@ -15,11 +15,11 @@ A user-friendly chatbot guides students through the application, providing assis
 
 ### News Veracity Assessment
 
-Leveraging Generative AI, Machine Learning, and Deep Learning models, GlobalEduHub determines the authenticity of news articles, educating students on distinguishing between true and false information.
+Leveraging Generative AI, Machine Learning, and Deep Learning models, FactIt determines the authenticity of news articles, educating students on distinguishing between true and false information.
 
 ### Educational Link References
 
-For each verified news article, GlobalEduHub provides links to credible sources, empowering students to follow a study path based on reliable information.
+For each verified news article, FactIt provides links to credible sources, empowering students to follow a study path based on reliable information.
 
 ### Auto-Population for Quality Education
 
