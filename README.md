@@ -111,13 +111,13 @@ The entire project is centered around Natural Language Processing (NLP), leverag
 1. Clone the repository:
 
    ```bash
-      git clone https://github.com/vempatisaivishal/GlobalTruthHub.git
+      git clone https://github.com/KanaparthySaiSreekar/A-Multi-Modal-Approach-for-Deceptive-Content-Detection.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd GlobalTruthHub
+   cd A-Multi-Modal-Approach-for-Deceptive-Content-Detection
    pip install -r requirements.txt
    ```
 
@@ -127,7 +127,7 @@ The entire project is centered around Natural Language Processing (NLP), leverag
 1. Run the application:
 
    ```bash
-   python app.py
+   python prog.py
    ```
 
 2. Open your web browser and navigate to the provided local URL.
