@@ -146,16 +146,15 @@ Users can customize the project by modifying the Bard API key. In case users enc
 
 ## Contact Information
 
-For any inquiries or support, please contact Saivishal Vempati at [vempatisaivishal@gmail.com](mailto:vempatisaivishal@gmail.com).
+For any inquiries or support, please contact Kanaparthy Sai Sreekar at [Mail](mailto:kanapasai@gmail.com).
 
 ## Credits
 
 - Generative AI
 - Google Bard
+- Claude Ai
+- Open Ai
   
-Vempati Sai Vishal
-Narigiri Vaishnav
-Chitimella Praneeth
-M Shanmukh
+
 
 ---
