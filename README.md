@@ -2,15 +2,12 @@
 
 A robust system using Selenium, BeautifulSoup, Streamlit, ML, Generative AI, and Google News API to detect fake news with accuracy. Empowering users with reliable information.
 
-## Problem Statement
-
-The University of South Florida System, serving nearly 48,000 students annually, faced the challenge of managing a growing number of applications. This hindered the delivery of new capabilities, prompting the need for a low-code, AI-driven platform. USF IT aimed to accelerate delivery while transforming the student experience.
 
 ## Project Features
 
 ### Intelligent Information Filtering
 
-GlobalEduHub allows students to filter information by day, time, and region, making educational content more accessible and relevant.
+FactIt allows students to filter information by day, time, and region, making educational content more accessible and relevant.
 
 ### Interactive Chatbot Guidance
 
