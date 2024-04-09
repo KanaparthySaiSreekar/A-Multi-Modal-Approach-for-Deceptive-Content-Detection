@@ -1,6 +1,6 @@
-# GlobalEduHub: Empowering Students with Reliable Information
+# A-Multi-Modal-Approach-for-Deceptive-Content-Detection
 
-Welcome to GlobalEduHub, an advanced solution developed to transform and fully mobilize the student experience at the University of South Florida System.
+A robust system using Selenium, BeautifulSoup, Streamlit, ML, Generative AI, and Google News API to detect fake news with accuracy. Empowering users with reliable information.
 
 ## Problem Statement
 
